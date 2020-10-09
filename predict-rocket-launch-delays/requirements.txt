@@ -202,6 +202,7 @@ pycosat==0.6.3
 pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pycurl==7.43.0.5
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
+pydotplus==2.0.2
 pyflakes==2.2.0
 Pygments==2.6.1
 PyJWT==1.7.1
